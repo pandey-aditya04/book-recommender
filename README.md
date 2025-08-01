@@ -1,4 +1,4 @@
-# 📚 Book Recommendation System
+#  Book Recommendation System
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-red?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
@@ -7,13 +7,13 @@
 
 A content-based book recommendation system built with Python and deployed as an interactive web application using Streamlit. This app suggests books to users based on their selections, helping them discover their next great read!
 
-<a href="YOUR_LIVE_DEMO_URL_HERE" target="_blank">
+<a href="https://book-recommender-app-dataset.streamlit.app/" target="_blank">
   <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
 </a>
 
 ***
 
-## ✨ Features
+##  Features
 
 -   **Interactive UI**: A simple, clean, and intuitive user interface built with Streamlit.
 -   **Content-Based Filtering**: Recommends books by analyzing textual features like title, author, language, and publisher.
@@ -22,7 +22,7 @@ A content-based book recommendation system built with Python and deployed as an 
 
 ***
 
-## 🧠 How It Works
+##  How It Works
 
 The recommendation engine is built on the principles of Natural Language Processing (NLP) and information retrieval:
 
@@ -36,7 +36,7 @@ The recommendation engine is built on the principles of Natural Language Process
 
 ***
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 -   **Core Language**: Python
 -   **Data Manipulation**: Pandas
@@ -45,7 +45,7 @@ The recommendation engine is built on the principles of Natural Language Process
 
 ***
 
-## 🚀 Setup and Local Installation
+##  Setup and Local Installation
 
 To run this project on your local machine, follow these steps:
 
@@ -77,7 +77,7 @@ Open your web browser and navigate to `http://localhost:8501` to see the app in 
 
 ***
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 book-recommender/
